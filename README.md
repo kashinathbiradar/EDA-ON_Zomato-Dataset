@@ -1,6 +1,6 @@
-### Zomato Exploratory Data Analysis (EDA)
+# Zomato Exploratory Data Analysis (EDA)
 
-  # This project focuses on performing an in-depth Exploratory Data Analysis (EDA) on the Zomato dataset to uncover insights about restaurants, cuisines, customer preferences, and trends. The analysis aims to answer meaningful business questions and support data-driven decision-making in the food delivery/restaurant industry.
+ This project focuses on performing an in-depth Exploratory Data Analysis (EDA) on the Zomato dataset to uncover insights about restaurants, cuisines, customer preferences, and trends.  The analysis aims to answer meaningful business questions and support data-driven decision-making in the food delivery/restaurant industry.
 
 
 ## Objectives
@@ -24,6 +24,6 @@
 
  ## Tech Stack 
   
-   # Python 🐍
-   # Libraries: Pandas, NumPy, Matplotlib, Seaborn, Plotly
-   # Jupyter Notebook for interactive analysis
+    Python 🐍
+    Libraries: Pandas, NumPy, Matplotlib, Seaborn, Plotly
+    Jupyter Notebook for interactive analysis
